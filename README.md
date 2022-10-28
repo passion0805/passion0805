@@ -18,11 +18,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="" />
