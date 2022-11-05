@@ -79,16 +79,11 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=passion0805&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=passion0805&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=passion0805&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=passion0805&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passion0805&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
