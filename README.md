@@ -16,20 +16,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
